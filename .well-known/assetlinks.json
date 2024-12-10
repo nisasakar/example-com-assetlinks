@@ -1,0 +1,14 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.ns.fakex",
+      "sha256_cert_fingerprints": [
+        "D2:C2:39:C9:6E:95:5D:1D:A7:35:F7:7A:BA:2A:12:82:EA:5E:82:B3:24:A2:14:07:5A:10:C8:BA:6E:06:37:9A"
+      ]
+    }
+  }
+]
+
+
